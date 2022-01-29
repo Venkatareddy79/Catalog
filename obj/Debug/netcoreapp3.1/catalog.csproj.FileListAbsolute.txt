@@ -588,8 +588,3 @@ C:\Users\siven\Downloads\catalog\obj\Debug\netcoreapp3.1\staticwebassets\catalog
 C:\Users\siven\Downloads\catalog\obj\Debug\netcoreapp3.1\catalog.dll
 C:\Users\siven\Downloads\catalog\obj\Debug\netcoreapp3.1\catalog.pdb
 C:\Users\siven\Downloads\catalog\obj\Debug\netcoreapp3.1\catalog.genruntimeconfig.cache
-C:\Users\siven\Downloads\catalog\bin\Debug\netcoreapp3.1\publish\appsettings.Development.json
-C:\Users\siven\Downloads\catalog\bin\Debug\netcoreapp3.1\publish\web.config
-C:\Users\siven\Downloads\catalog\bin\Debug\netcoreapp3.1\publish\appsettings.json
-C:\Users\siven\Downloads\catalog\bin\Debug\netcoreapp3.1\publish\catalog.deps.json
-C:\Users\siven\Downloads\catalog\bin\Debug\netcoreapp3.1\publish\catalog.runtimeconfig.json
